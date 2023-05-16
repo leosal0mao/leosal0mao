@@ -1,5 +1,5 @@
-<h2> Hi, I'm Léo Salomão! <img src="https://media.tenor.com/0EDznml5BDAAAAAj/cat-spinning.gif" width="50"></h2>
-<img align='right' src="https://cdn.dribbble.com/users/320114/screenshots/2575134/media/5b7f22deeb1522d5cb93fc864108bf25.gif" width="230">
+<h2> Hi, I'm Leo! <img src="https://media.tenor.com/0EDznml5BDAAAAAj/cat-spinning.gif" width="50"></h2>
+<img align='right' src="https://64.media.tumblr.com/3c363bcd2f52dd4f49ab812e5e6ed96f/beb34c98c54f709f-47/s500x750/0c2a2bd3c105172a67b935ddef7321e0117360a0.gif" width="300">
 <p><em>Software Engineer</em></p>
 
 [![Linkedin: leosalomao20](https://img.shields.io/badge/-leosalomao20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leosalomao20/)](https://www.linkedin.com/in/leosalomao20/)
