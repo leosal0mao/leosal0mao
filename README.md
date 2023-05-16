@@ -6,7 +6,7 @@
 [![GitHub leosal0mao](https://img.shields.io/github/followers/leosal0mao?label=follow&style=social)](https://github.com/leosal0mao)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.tenor.com/0EDznml5BDAAAAAj/cat-spinning.gif" width="50"> A little more about me...  
 
 ```javascript
 const leo = {
