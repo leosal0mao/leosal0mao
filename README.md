@@ -2,7 +2,7 @@
 <img align='right' src="https://cdn.dribbble.com/users/320114/screenshots/2575134/media/5b7f22deeb1522d5cb93fc864108bf25.gif" width="230">
 <p><em>Software Engineer</em></p>
 
-[![Linkedin: leosalomao20](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leosalomao20/)](https://www.linkedin.com/in/leosalomao20/)
+[![Linkedin: leosalomao20](https://img.shields.io/badge/-leosalomao20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leosalomao20/)](https://www.linkedin.com/in/leosalomao20/)
 [![GitHub leosal0mao](https://img.shields.io/github/followers/leosal0mao?label=follow&style=social)](https://github.com/leosal0mao)
 
 
