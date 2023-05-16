@@ -20,14 +20,14 @@ const leo = {
         },
         mobileApp: {
             crossplatform: ["Flutter"],
-            native: ["Android Development"]
+            native: ["Android Development", "iOS development"]
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Overleaf"]
     },
     architecture: ["event-driven", "test-driven"],
-    currentFocus: "Learning 3D objects manipulation with javascript",
+    currentFocus: "Learning 3D objects manipulation with javascript, mastering TDD in Flutter",
     funFact: "I love cats, like, a lot."
 };
 ```
