@@ -11,12 +11,16 @@
 ```javascript
 const leo = {
     pronouns: "He" | "Him",
-    code: ["Flutter", "Javascript", "Python", "C#"],
+    code: ["Python", "Flutter", "Javascript", "C#"],
     askMeAbout: ["mobile dev", "web dev", "tech", "video editor"],
     technologies: {
         backEnd: {
             js: ["Node"],
             csharp: ["ASP.NET"]
+            python: ["FastAPI"]
+        },
+        frontEnd: {         
+            python: ["django"]
         },
         mobileApp: {
             crossplatform: ["Flutter"],
@@ -27,7 +31,7 @@ const leo = {
         misc: ["Firebase", "Overleaf"]
     },
     architecture: ["event-driven", "test-driven"],
-    currentFocus: "Learning 3D objects manipulation with javascript, mastering TDD in Flutter",
+    currentFocus: "Mastering python and it's magic tools",
     funFact: "I love cats, like, a lot."
 };
 ```
