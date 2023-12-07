@@ -16,7 +16,7 @@ const leo = {
     technologies: {
         backEnd: {
             js: ["Node"],
-            csharp: ["ASP.NET"]
+            csharp: ["ASP.NET"],
             python: ["FastAPI"]
         },
         frontEnd: {         
